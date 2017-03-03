@@ -1,14 +1,17 @@
-Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on the modeling of human systems (culture, languages, societies) using biological datasets.
+Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human systems (culture, languages, societies) using biological datasets.
 
 ## Current Projects
 
 ### Inferring selection from human population genetics
 With Jerome Goudet (UNIL) and Marc Robinson-Réchavi (UNIL)
 
+### Correcting gene length biases in bioinformatics
+With Jerome Goudet (UNIL) and Marc Robinson-Réchavi (UNIL)
+
 ### Effect of sampling bias on human population genetics
 With Jerome Goudet (UNIL) and Loic Pillard (UNIL)
 
-### Effect of marriages rules on population genetics
+### Effect of social rules on population genetics
 With Murray Cox (Massey University) and Steve Lansing (Nanyang Technological University)
 
 ## Publications
@@ -27,7 +30,7 @@ Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier
 
 ## CV
 
-### 2015-2016 Post-Doctorat 
+### 2015-2017 Post-Doctorat 
 [Département Écolgie et Évolution](https://www.unil.ch/dee/home.html), Université de Lausanne, Suisse
 
 With Prof. [Marc Robinson-Réchavi](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-marc-robinson-rechavi.html) and Prof. [Jérôme Goudet](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-jerome-goudet.html)
@@ -99,6 +102,7 @@ Sports (Handball, Squash, Running)
 Writing 
 
 Outreach
+[Participation in a Science video hackathon](https://www.youtube.com/watch?v=MUUYp-k8R6Y)
  
 [http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html](http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html)
 
