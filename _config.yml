@@ -1,0 +1,8 @@
+title: Elsa G Guillot
+description: Computational Biostatistics
+google_analytics: UA-74875640-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
