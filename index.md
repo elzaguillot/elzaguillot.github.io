@@ -1,4 +1,4 @@
-Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human systems (culture, languages, societies) using biological datasets.
+Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human systems (culture, languages, societies, demography) using population genetics datasets.
 
 ## Current Projects
 
