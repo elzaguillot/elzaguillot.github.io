@@ -16,10 +16,10 @@ With Murray Cox (Massey University) and Steve Lansing (Nanyang Technological Uni
 
 ## Publications
 
-Kanitz R., Guillot E.G., Antoniazza S., Neuenschwander S. and J. Goudet. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. Biorxviv 2017. doi:[10.1101/158923][https://doi.org/10.1101/158923]
+Kanitz R., Guillot E.G., Antoniazza S., Neuenschwander S. and J. Goudet. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. Biorxviv 2017. doi:[10.1101/158923](https://doi.org/10.1101/158923])
 
 
-Motsch S., Moussaid M., Guillot E.G., Moreau M., Pettre J., Theraulaz G., Appert-Rolland C. and P. Degond. Forecasting crowd dynamics through coarse-grained data analysis. Biorxiv 2017. doi:[10.1101/175760][https://doi.org/10.1101/175760]
+Motsch S., Moussaid M., Guillot E.G., Moreau M., Pettre J., Theraulaz G., Appert-Rolland C. and P. Degond. Forecasting crowd dynamics through coarse-grained data analysis. Biorxiv 2017. doi:[10.1101/175760](https://doi.org/10.1101/175760)
 
 Guillot E.G. Modeling the role of social structures in population genetics. PhD Thesis at Massey university [pdf here](http://mro.massey.ac.nz/bitstream/handle/10179/6951/02_whole.pdf?sequence=2&isAllowed=y)
 
