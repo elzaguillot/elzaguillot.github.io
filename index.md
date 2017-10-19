@@ -98,9 +98,19 @@ Biostatistics:
 
 * Genetic evolution
 
-Contact: elsa.guillot@unil.ch
+## Teaching experience and interest
+
+* Statistics for non specialists (biology, business, sports)
+
+* Population genetics
+
+* Modeling and simulations
+
+* Programming (R, python)
 
 ## Other Interests
+
+Member of the [International Society of Computation Biology Regional Student Group of Switzerland](https://iscbrsgswitzerland.wordpress.com)
 
 Sports (Handball, Squash, Running)
 
@@ -112,3 +122,6 @@ Outreach
 [http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html](http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html)
 
 Twitter: [@elza_guillot](https://twitter.com/elza_guillot)
+
+
+Contact: elsa.guillot@unil.ch
