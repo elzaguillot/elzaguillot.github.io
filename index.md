@@ -108,13 +108,15 @@ Biostatistics:
 
 * Programming (R, python)
 
-## Other Interests
+## Others
+
+My Erdős number is [4](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
 
 Member of the [International Society of Computation Biology Regional Student Group of Switzerland](https://iscbrsgswitzerland.wordpress.com)
 
-Sports (Handball, Squash, Running)
+I like doing sports (Handball, Squash, Running)
 
-Writing 
+I enjoy writing  (science and fiction)
 
 Outreach
 [Participation in a Science video hackathon](https://www.youtube.com/watch?v=MUUYp-k8R6Y)
