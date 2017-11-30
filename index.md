@@ -16,6 +16,8 @@ With Murray Cox (Massey University) and Steve Lansing (Nanyang Technological Uni
 
 ## Publications
 
+Lansing, J.S., C. Abundo, G.S. Jacobs, E.G. Guillot, S. Thurner, S.S. Downey, L.Y. Chew, T. Bhattacharya, H. Sudoyo and M.P. Cox. 2017. Kinship Structures Create Persistent Channels for Language Transmission. Proceedings of the National Academy of Sciences USA. doi:[10.1073/pnas.1706416114](http://dx.doi.org/10.1073/pnas.1706416114)
+
 Kanitz R., Guillot E.G., Antoniazza S., Neuenschwander S. and J. Goudet. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. Biorxviv 2017. doi:[10.1101/158923](http://dx.doi.org/10.1101/158923)
 
 
