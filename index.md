@@ -16,9 +16,10 @@ With Murray Cox (Massey University) and Steve Lansing (Nanyang Technological Uni
 
 ## Publications
 
-Lansing, J.S., C. Abundo, G.S. Jacobs, E.G. Guillot, S. Thurner, S.S. Downey, L.Y. Chew, T. Bhattacharya, H. Sudoyo and M.P. Cox. 2017. Kinship Structures Create Persistent Channels for Language Transmission. Proceedings of the National Academy of Sciences USA. doi:[10.1073/pnas.1706416114](http://dx.doi.org/10.1073/pnas.1706416114)
+Lansing, J.S., C. Abundo, G.S. Jacobs, E.G. Guillot, S. Thurner, S.S. Downey, L.Y. Chew, T. Bhattacharya, H. Sudoyo and M.P. Cox (2017) Kinship Structures Create Persistent Channels for Language Transmission. Proceedings of the National Academy of Sciences. doi:[10.1073/pnas.1706416114](http://dx.doi.org/10.1073/pnas.1706416114)
 
-Kanitz R., Guillot E.G., Antoniazza S., Neuenschwander S. and J. Goudet. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. Biorxviv 2017. doi:[10.1101/158923](http://dx.doi.org/10.1101/158923)
+Kanitz R., Guillot E.G., Antoniazza S., Neuenschwander S. and J. Goudet.2018. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. PLoS One 13(2). doi:[10.1371/journal.pone.0192460
+](http://dx.doi.org/10.1371/journal.pone.0192460)
 
 
 Motsch S., Moussaid M., Guillot E.G., Moreau M., Pettre J., Theraulaz G., Appert-Rolland C. and P. Degond. Forecasting crowd dynamics through coarse-grained data analysis. Biorxiv 2017. doi:[10.1101/175760](http://dx.doi.org/10.1101/175760)
@@ -27,13 +28,13 @@ Guillot E.G. Modeling the role of social structures in population genetics. PhD 
 
 Guillot E.G. and M.P. Cox High Frequency Haplotypes are Expected Events, not Historical Figures  [version 2; referees: 1 approved, 2 approved with reservations] F1000Research 2015, 4:666 doi:[10.12688/f1000research.7023.2](http://dx.doi.org/10.12688/f1000research.7023.2)
 
-Guillot, E.G., M.L. Hazelton, T.M. Karafet, J.S. Lansing, H. Sudoyo and M.P. Cox. 2015. Relaxed Observance of Traditional Marriage Rules Allows Social Connectivity without Loss of Genetic Diversity. Molecular Biology and Evolution 32:2254-2262 [doi: 10.1093/molbev/msv102](http://dx.doi.org/10.1093/molbev/msv102)
+Guillot, E.G., M.L. Hazelton, T.M. Karafet, J.S. Lansing, H. Sudoyo and M.P. Cox (2015) Relaxed Observance of Traditional Marriage Rules Allows Social Connectivity without Loss of Genetic Diversity. Molecular Biology and Evolution 32:2254-2262 [doi: 10.1093/molbev/msv102](http://dx.doi.org/10.1093/molbev/msv102)
 
-Guillot, E.G. and M.P. Cox. 2014. SMARTPOP: Inferring the Impact of Social Dynamics on Genetic Diversity through High Speed Simulations. BMC Bioinformatics 15:175 doi [10.1186/1471210515175](http://dx.doi.org/10.1186/1471210515175)
+Guillot, E.G. and M.P. Cox (2014) SMARTPOP: Inferring the Impact of Social Dynamics on Genetic Diversity through High Speed Simulations. BMC Bioinformatics 15:175 doi [10.1186/1471210515175](http://dx.doi.org/10.1186/1471210515175)
 
-Guillot, E.G., M.K. Tumonggor, J.S. Lansing, H. Sudoyo and M.P. Cox. 2013. Climate Change Influenced Female Population Sizes through Time across the Indonesian Archipelago. Human Biology 85:135152 doi :[ 10.3378/027.085.0306](http://dx.doi.org/10.3378/027.085.0306)
+Guillot, E.G., M.K. Tumonggor, J.S. Lansing, H. Sudoyo and M.P. Cox (2013) Climate Change Influenced Female Population Sizes through Time across the Indonesian Archipelago. Human Biology 85:135152 doi :[ 10.3378/027.085.0306](http://dx.doi.org/10.3378/027.085.0306)
 
-Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier, J. Pettré, C. AppertRolland, P. Degond and G. Theraulaz. 2012. Traffic Instabilities in Self-Organized Pedestrian Crowds. PLoS Computational Biology 8, 3: e100244 doi : [10.1371/journal.pcbi.1002442](http://dx.doi.org/10.1371/journal.pcbi.1002442)
+Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier, J. Pettré, C. AppertRolland, P. Degond and G. Theraulaz (2012) Traffic Instabilities in Self-Organized Pedestrian Crowds. PLoS Computational Biology 8, 3: e100244 doi : [10.1371/journal.pcbi.1002442](http://dx.doi.org/10.1371/journal.pcbi.1002442)
 
 ## CV
 
