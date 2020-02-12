@@ -8,11 +8,12 @@ Following an engineering degree in modeling biological systems, a master degree 
 ### Correcting gene length biases in bioinformatics
 With Jerome Goudet (UNIL) and Marc Robinson-Réchavi (UNIL)
 
-### Effect of sampling bias on human population genetics
-With Jerome Goudet (UNIL) and Loic Pillard (UNIL)
 
 
 ## Publications
+
+
+Wheway, G., Douglas, A., Baralle, D. and E. Guillot (2020). Mutation spectrum of PRPF31, genotype-phenotype correlation in retinitis pigmentosa, and opportunities for therapy. Experimental Eye Research, p.107950. doi:[https://doi.org/10.1016/j.exer.2020.107950](https://doi.org/10.1016/j.exer.2020.107950)
 
 Lansing, J.S., C. Abundo, G.S. Jacobs, E.G. Guillot, S. Thurner, S.S. Downey, L.Y. Chew, T. Bhattacharya, H. Sudoyo and M.P. Cox (2017) Kinship Structures Create Persistent Channels for Language Transmission. Proceedings of the National Academy of Sciences. doi:[10.1073/pnas.1706416114](http://dx.doi.org/10.1073/pnas.1706416114)
 
@@ -103,6 +104,18 @@ Biostatistics:
 * Genetic evolution
 
 ## Teaching experience and interest
+
+* Data science
+
+* Multiariate statistics
+
+* Statistical analyses
+
+* Statistical research methods
+
+* Numerical methods
+
+* Mathematics for engineers
 
 * Statistics for non specialists (biology, business, sports)
 
