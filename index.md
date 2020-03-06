@@ -15,13 +15,13 @@ With Jerome Goudet (UNIL) and Marc Robinson-Réchavi (UNIL)
 
 Wheway, G., A. Douglas, D. Baralle, and E. Guillot (2020). Mutation spectrum of PRPF31, genotype-phenotype correlation in retinitis pigmentosa, and opportunities for therapy. Experimental Eye Research, p.107950. doi:[https://doi.org/10.1016/j.exer.2020.107950](https://doi.org/10.1016/j.exer.2020.107950)
 
+
+Kanitz R., E.G. Guillot, S. Antoniazza, S. Neuenschwander and J. Goudet.2018. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. PLoS One 13(2). doi:[10.1371/journal.pone.0192460](http://dx.doi.org/10.1371/journal.pone.0192460)
+
+
+Motsch S., M. Moussaid, E.G. Guillot, M. Moreau, J. Pettre, G. Theraulaz, C. Appert-Rolland and P. Degond. (2018) Forecasting crowd dynamics through coarse-grained data analysis. Mathematical Biosciences & Engineering doi:[ 10.3934/mbe.2018059](http://dx.doi.org/10.3934/mbe.2018059)
+
 Lansing, J.S., C. Abundo, G.S. Jacobs, E.G. Guillot, S. Thurner, S.S. Downey, L.Y. Chew, T. Bhattacharya, H. Sudoyo and M.P. Cox (2017) Kinship Structures Create Persistent Channels for Language Transmission. Proceedings of the National Academy of Sciences. doi:[10.1073/pnas.1706416114](http://dx.doi.org/10.1073/pnas.1706416114)
-
-Kanitz R., E.G. Guillot, S. Antoniazza, S. Neuenschwander and J. Goudet.2018. Complex genetic patterns in human arise from a simple range-expansion model over continental landmasses. PLoS One 13(2). doi:[10.1371/journal.pone.0192460
-](http://dx.doi.org/10.1371/journal.pone.0192460)
-
-
-Motsch S., M. Moussaid, E.G. Guillot, M. Moreau, J. Pettre, G. Theraulaz, C. Appert-Rolland and P. Degond. Forecasting crowd dynamics through coarse-grained data analysis. Biorxiv 2017. doi:[10.1101/175760](http://dx.doi.org/10.1101/175760)
 
 Guillot E.G. Modeling the role of social structures in population genetics. PhD Thesis at Massey university [pdf here](http://mro.massey.ac.nz/bitstream/handle/10179/6951/02_whole.pdf?sequence=2&isAllowed=y)
 
