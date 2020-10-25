@@ -1,13 +1,6 @@
-Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human systems (culture, languages, societies, demography) using population genetics datasets.
+Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human and biological systems: culture, languages, societies, demography, genetics.
 
-## Current Projects
-
-### Modelling social processes and population gentics
-
-
-### Correcting gene length biases in bioinformatics
-With Jerome Goudet (UNIL) and Marc Robinson-Réchavi (UNIL)
-
+After 9 years in Academia I am now modelling system biology for a biomedical company.
 
 
 ## Publications
@@ -37,7 +30,7 @@ Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier
 
 ## CV
 
-### Since 2018 - Lecturer in statistics
+### 2018-2020 - Lecturer in statistics
 [Department of Engineering, Design and Mathematics](http://www1.uwe.ac.uk/et/edm), University of the West of England, Bristol, UK
 
 ### 2015-2017 Post-Doctorat 
