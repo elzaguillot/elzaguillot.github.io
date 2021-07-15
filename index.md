@@ -5,6 +5,7 @@ After 9 years in Academia I am now modelling system biology for a biomedical com
 
 ## Publications
 
+Gwynllyw, D. R., Henderson, K. L., & Guillot, E. G. (2020). Using Python in the Teaching of Numerical Analysis. MSOR Connections, 18(2).
 
 Wheway, G., A. Douglas, D. Baralle, and E. Guillot (2020). Mutation spectrum of PRPF31, genotype-phenotype correlation in retinitis pigmentosa, and opportunities for therapy. Experimental Eye Research, p.107950. doi:[https://doi.org/10.1016/j.exer.2020.107950](https://doi.org/10.1016/j.exer.2020.107950)
 
@@ -29,6 +30,9 @@ Guillot, E.G., M.K. Tumonggor, J.S. Lansing, H. Sudoyo and M.P. Cox (2013) Clima
 Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier, J. Pettré, C. AppertRolland, P. Degond and G. Theraulaz (2012) Traffic Instabilities in Self-Organized Pedestrian Crowds. PLoS Computational Biology 8, 3: e100244 doi : [10.1371/journal.pcbi.1002442](http://dx.doi.org/10.1371/journal.pcbi.1002442)
 
 ## CV
+
+### 2020 - Now - System Biologist
+[Vidium Solutions](https://vidium-solutions.com/), Lyon, France
 
 ### 2018-2020 - Lecturer in statistics
 [Department of Engineering, Design and Mathematics](http://www1.uwe.ac.uk/et/edm), University of the West of England, Bristol, UK
