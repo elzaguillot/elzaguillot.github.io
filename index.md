@@ -1,6 +1,7 @@
 Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human and biological systems: culture, languages, societies, demography, genetics.
 
-After 9 years in Academia I am now modelling system biology for a biomedical company.
+
+After 9 years in Academia I joined Vidium Solution in 2020 as a system biologist to model cell fate from OMICS data, before progressing to CTO and COO. 
 
 
 ## Publications
@@ -31,13 +32,19 @@ Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier
 
 ## CV
 
+
 ### 2020 - Now - System Biologist
+
+COO since 2022
+CTO since 2023
 [Vidium Solutions](https://vidium-solutions.com/), Lyon, France
 
 ### 2018-2020 - Lecturer in statistics
+
 [Department of Engineering, Design and Mathematics](http://www1.uwe.ac.uk/et/edm), University of the West of England, Bristol, UK
 
 ### 2015-2017 Post-Doctorat 
+
 [Département Écologie et Évolution](https://www.unil.ch/dee/home.html), Université de Lausanne, Suisse
 
 With Prof. [Marc Robinson-Réchavi](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-marc-robinson-rechavi.html) and Prof. [Jérôme Goudet](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-jerome-goudet.html)
@@ -80,6 +87,10 @@ Reconstructing female and male lineages from haplogroups in humans (with Marie Z
 
 [http://carpntrees.shinyapps.io/shinyapp](http://carpntrees.shinyapps.io/shinyapp)
 
+### Languages
+
+R, python, C++, SQL, 
+
 ## Research Interests
 
 Computational statistics:
@@ -100,11 +111,13 @@ Biostatistics:
 
 * Genetic evolution
 
-## Teaching experience and interest
+## Teaching experience 
+
+I have taught at university level (bachelor and masters) in France, Switzerland, New Zealand and England, spanning a wide variety of topics:
 
 * Data science
 
-* Multiariate statistics
+* Multivariate statistics
 
 * Statistical analyses
 
@@ -122,6 +135,26 @@ Biostatistics:
 
 * Programming (R, python)
 
+* Modeling
+
+## Interest
+
+* Complexity
+
+* Modeling
+
+* Statistics
+
+* Bioinformatics
+
+* OMICS
+
+* Data science
+
+* IA
+
+* Mentoring
+
 ## Others
 
 My Erdős number is [4](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
@@ -138,4 +171,6 @@ Twitter: [@elza_guillot](https://twitter.com/elza_guillot)
 
 [UWE webpage](https://people.uwe.ac.uk/Pages/person.aspx?accountname=campus%5Ceg-guillot)
 
-Contact: elsa.guillot@unil.ch
+Linkedin: [https://www.linkedin.com/in/elsaguillot/](https://www.linkedin.com/in/elsaguillot/)
+Contact: elza [dot] guillot at gmail [dot] com
+
