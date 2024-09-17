@@ -1,7 +1,52 @@
 Following an engineering degree in modeling biological systems, a master degree in modeling complex systems and a PhD in statistics, my research focuses on modeling human and biological systems: culture, languages, societies, demography, genetics.
 
 
-After 9 years in Academia I joined Vidium Solution in 2020 as a system biologist to model cell fate from OMICS data, before progressing to CTO and COO. 
+After 8 years in Academia I joined Vidium Solution in 2020 as a system biologist to model cell fate from OMICS data, before progressing to CTO and COO. 
+
+
+## Short CV
+
+For a more detailed version sse my [cv](https://elzaguillot.github.io/CV_Elsa_Guillot.pdf) or my [linkedin profile](https://www.linkedin.com/in/elsaguillot/)
+
+### 2020 - 2024 - System Biologist
+
+**COO since 2022**
+**CTO since 2023**
+
+[Vidium Solutions](https://vidium-solutions.com/), Lyon, France
+
+### 2018-2020 - Lecturer in Statistics
+
+[Department of Engineering, Design and Mathematics](https://www.uwe.ac.uk/research/centres-and-groups/mathematics-and-statistics), University of the West of England, Bristol, UK
+
+### 2015-2017 Post-Doc
+
+[Département Écologie et Évolution](https://www.unil.ch/dee/home.html), Université de Lausanne, Suisse
+
+With Prof. [Marc Robinson-Réchavi](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-marc-robinson-rechavi.html) and Prof. [Jérôme Goudet](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-jerome-goudet.html)
+
+### 2011-2015 PhD in (bio)statistics 
+“Modeling the role of social structures in population genetics”
+[Institute of fundamental Sciences](http://www.massey.ac.nz/) (IFS), Massey University, Palmerston North, New-Zealand (NZ)
+
+Distinction : Dean's list of exceptionnal thesis
+
+Supervised by Prof. [Murray P Cox](https://www.genomicus.com/) and Prof. [Martin L Hazelton](https://www.otago.ac.nz/maths-and-stats/people/professor-martin-hazelton)
+
+### 2010-2011 Master of Sciences, computer sciences and modeling of complex systems
+
+[IXXI](http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-complex-systems), École Normale Supérieure (ENS), Lyon, France
+
+### 2006-2011 Master of Engineering, specialized in bioinformatics and modeling
+
+[BIM](https://biosciences.insa-lyon.fr/fr/content/parcours-bioinformatique-et-modelisation), Institut National des Sciences Appliquées (INSA), Lyon, France
+
+### 2011 Master project
+"Modeling bidirectional flow of pedestrians"
+
+[CRCA](https://crca.cbi-toulouse.fr/), University Paul Sabatier, Toulouse, France
+
+With Prof. [Guy Theraulaz](https://crca.cbi-toulouse.fr/en/guytheraulaz/)
 
 
 ## Publications
@@ -30,49 +75,6 @@ Guillot, E.G., M.K. Tumonggor, J.S. Lansing, H. Sudoyo and M.P. Cox (2013) Clima
 
 Moussaïd, M., E.G. Guillot, M. Moreau, J. Fehrenbach, O. Chabiron, S. Lemercier, J. Pettré, C. AppertRolland, P. Degond and G. Theraulaz (2012) Traffic Instabilities in Self-Organized Pedestrian Crowds. PLoS Computational Biology 8, 3: e100244 doi : [10.1371/journal.pcbi.1002442](http://dx.doi.org/10.1371/journal.pcbi.1002442)
 
-## CV
-
-
-### 2020 - Now - System Biologist
-
-COO since 2022
-CTO since 2023
-[Vidium Solutions](https://vidium-solutions.com/), Lyon, France
-
-### 2018-2020 - Lecturer in statistics
-
-[Department of Engineering, Design and Mathematics](http://www1.uwe.ac.uk/et/edm), University of the West of England, Bristol, UK
-
-### 2015-2017 Post-Doctorat 
-
-[Département Écologie et Évolution](https://www.unil.ch/dee/home.html), Université de Lausanne, Suisse
-
-With Prof. [Marc Robinson-Réchavi](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-marc-robinson-rechavi.html) and Prof. [Jérôme Goudet](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-jerome-goudet.html)
-
-### 2011-2015 PhD in statistics 
-“Modeling the role of social structures in population genetics”
-[Institute of fundamental Sciences](http://ifs.massey.ac.nz/) (IFS), Massey University, Palmerston North, New-Zealand (NZ)
-
-Distinction : Dean's list of exceptionnal thesis
-
-Supervised by Prof. [Murray P Cox](http://massey.genomicus.com/) and Prof. [Martin L Hazelton](http://www.massey.ac.nz/~mhazelto/)
-
-### 2010-2011 Master, computer sciences option modeling of complex systems
-
-[IXXI](http://www.ens-lyon.fr/MasterSDM/en/master-2/m2-complex-systems), École Normale Supérieure (ENS), Lyon, France
-
-### 2006-2011 Master of Engineering, speciality in bioinformatics and modeling
-
-[BIM](http://bim.insa-lyon.fr/en), Institut National des Sciences Appliquées (INSA), Lyon, France
-
-### 2011 Master project
-"Modeling bidirectional flow of pedestrians"
-
-[CRCA](http://cognition.ups-tlse.fr/?lang=en), University Paul Sabatier, Toulouse, France
-
-With Prof. [Guy Theraulaz](http://cognition.ups-tlse.fr/spip.php?article182&lang=fr)
-
-
 ## Software
 
 ### SMARTPOP 
@@ -89,7 +91,7 @@ Reconstructing female and male lineages from haplogroups in humans (with Marie Z
 
 ### Languages
 
-R, python, C++, SQL, 
+R, python, C++, SQL, bash, latex
 
 ## Research Interests
 
@@ -159,18 +161,17 @@ I have taught at university level (bachelor and masters) in France, Switzerland,
 
 My Erdős number is [4](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
 
-Member of the [International Society of Computation Biology Regional Student Group of Switzerland](https://iscbrsgswitzerland.wordpress.com)
+Member of the [French Society of Bioinformatics](https://www.sfbi.fr/)
 
+Former number of :
+ - [ISCB](https://www.iscb.org/)
+ - [SIB](https://www.sib.swiss/)
+ - [Allan Wilson Centre](https://www.otago.ac.nz/allan-wilson-research)
 
-Outreach
+Outreach:
 [Participation in a Science video hackathon](https://www.youtube.com/watch?v=MUUYp-k8R6Y)
  
-[http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html](http://www.unil.ch/dee/en/home/menuinst/people/post-docs--associates/dr-elsa-guillot.html)
-
-Twitter: [@elza_guillot](https://twitter.com/elza_guillot)
-
-[UWE webpage](https://people.uwe.ac.uk/Pages/person.aspx?accountname=campus%5Ceg-guillot)
-
 Linkedin: [https://www.linkedin.com/in/elsaguillot/](https://www.linkedin.com/in/elsaguillot/)
+
 Contact: elza [dot] guillot at gmail [dot] com
 
