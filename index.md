@@ -7,6 +7,8 @@ After 8 years in Academia I joined Vidium Solution in 2020 as a system biologist
 ## Short CV
 
 For a more detailed version sse my [cv](https://elzaguillot.github.io/CV_Elsa_Guillot.pdf) or my [linkedin profile](https://www.linkedin.com/in/elsaguillot/)
+## 2025 - Now - Staff scientist
+[Department of Computational Biology, Centre de Recherche en Oncologie, Centre Léon Bérard](https://www.centreleonberard.fr/institution/annuaire/elsa-guillot), Lyon, France
 
 ### 2020 - 2024 - System Biologist
 
@@ -51,7 +53,11 @@ With Prof. [Guy Theraulaz](https://crca.cbi-toulouse.fr/en/guytheraulaz/)
 
 ## Publications
 
-Gwynllyw, D. R., Henderson, K. L., & Guillot, E. G. (2020). Using Python in the Teaching of Numerical Analysis. MSOR Connections, 18(2).
+Guillot, E.G., Fort, Q.G., Mozin, E., Robert, B., Bouvier, M., Fourgeux, C., Simon, P., Munoz, S., Childers, M., Poschmann, J., Adjali, O., Mack, D.L, Bonnaffoux, A. and Jean-Baptiste Dupont, 2025. Inference and validation of a dynamic gene regulatory network influencing cell fate during Duchenne muscular dystrophy initiation. bioRxiv, pp.2025-11 [www.biorxiv.org/content/10.1101/2025.11.19.689189v1.abstract](www.biorxiv.org/content/10.1101/2025.11.19.689189v1.abstract)
+
+Thomas, M., Pacary, A., Arnaud, E., Bernard, D., Maugis-Rabusseau, C., Guissard, C., Arlat, A., Davezac, N., Lorsignol, A., Paupert, J., Guillot, E.G., Bonnaffoux, A., Cousin, B., Planat-Benard, V, Monsarrat, P. Casteilla L, and  Marielle Ousset  2026. Regenerative repair is connected to early and specific structural, immune, and metabolic MSC signatures in adult mammals. Scientific Reports. Regenerative repair is connected to early and specific structural, immune, and metabolic MSC signatures in adult mammals. Sci Rep (2026).doi:[https://doi.org/10.1038/s41598-026-58327-y](https://doi.org/10.1038/s41598-026-58327-y)
+
+Gwynllyw, D. R., Henderson, K. L., and Guillot, E. G. (2020). Using Python in the Teaching of Numerical Analysis. MSOR Connections, 18(2).
 
 Wheway, G., A. Douglas, D. Baralle, and E. Guillot (2020). Mutation spectrum of PRPF31, genotype-phenotype correlation in retinitis pigmentosa, and opportunities for therapy. Experimental Eye Research, p.107950. doi:[https://doi.org/10.1016/j.exer.2020.107950](https://doi.org/10.1016/j.exer.2020.107950)
 
